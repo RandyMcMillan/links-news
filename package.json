@@ -1,22 +1,23 @@
 {
-  "name": "planet-news",
+  "name": "link-news",
   "version": "0.1.0",
-  "description": "news - planet template pack - river of news style",
+  "description": "links-news pluto template",
   "repository": {
     "type": "git",
-    "url": "git://github.com/planet-templates/planet-news.git"
+    "url": "git://github.com/randymcmillan/links-news.git"
   },
   "keywords": [
     "planet",
     "news",
     "pluto",
     "planet-templates",
+    "bitcoinwords",
     "river"
   ],
-  "author": "Gerald Bauer",
+  "author": "Randy McMillan",
   "license": "Public Domain",
   "bugs": {
-    "url": "https://github.com/planet-templates/planet-news/issues"
+    "url": "https://github.com/randymcmillan/links-news/issues"
   },
-  "homepage": "https://github.com/planet-templates/planet-news"
+  "homepage": "https://bitcoinwords.github.io/links/docs/planet.news.html"
 }
